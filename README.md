@@ -38,13 +38,6 @@ Se revisó el commit v1.03 para comparar cambios recientes en el navbar y detect
 
 Se actualizaron manualmente todos los enlaces incorrectos para asegurar que cada botón redirigiera a su página correspondiente.
 
-Ejemplo del error:
-
-<li><a href="./pages/contacto.html">Inicio</a></li>
-
-Corrección aplicada:
-
-<li><a href="./index.html">Inicio</a></li>
 3. Testing completo
 
 Se ejecutó una validación manual de todos los enlaces del navbar en:
