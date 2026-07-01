@@ -1,4 +1,4 @@
-#Post Mortem-Error en enlaces de navegacion (commit v1.03)
+#Post Mortem-Error en enlaces de navegacion (commit v1.02)
 
 ##Contexto
 
@@ -12,7 +12,7 @@ En la versión v1.03, se realizó una actualización enfocada en mejorar la nave
 
 ##Problema
 
-Durante las pruebas posteriores al commit v1.03, se detectó un error crítico en la configuración de los enlaces del navbar.
+Durante las pruebas posteriores al commit v1.02, se detectó un error crítico en la configuración de los enlaces del navbar.
 
 Los enlaces de navegación presentaban los siguientes problemas:
 
@@ -32,7 +32,7 @@ Para resolver el incidente, se llevaron a cabo las siguientes acciones:
 
 1. Identificación del error
 
-Se revisó el commit v1.03 para comparar cambios recientes en el navbar y detectar las rutas afectadas.
+Se revisó el commit v1.02 para comparar cambios recientes en el navbar y detectar las rutas afectadas.
 
 2. Corrección de enlaces
 
@@ -82,8 +82,8 @@ Documentación de control de versiones
 Repositorio del proyecto:
 GitHub Repository
 
-Commit con error detectado (v1.03):
-Commit v1.03 - Navbar Update
+Commit con error detectado (v1.02):
+Commit v1.02 - Navbar Update
 
 Commit con corrección aplicada:
 Fix Navbar Links
